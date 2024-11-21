@@ -1,0 +1,32 @@
+.navigation{
+    background-color: #C271FF;
+}
+.logo-container , .menu-container{display: inline-block;}
+.logo-container{width: 30%}
+.menu-container{width: 60%}
+.menu-container ul{
+    width: 60%;
+    padding: 0px;
+    margin:0px;
+}
+.menu-container > ul > li {
+    list-style-type: none;
+    padding: 10px;
+    float: right;
+}
+.persons{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.person{
+    width: 23%;
+    display: inline-block;
+}
+
+
+
+
+
+
+
